@@ -1,5 +1,11 @@
-bolas_azules = 21
-bolas_rojas = 46
+#Ariel tiene bolas azules y rojas
+#Todos los días, gana 2 bolas azules y pierde 3 bolas rojas.
+#Después de 5 días, tiene la misma cantidad de bolas azules y rojas.
+#Después de 9 días, tiene el doble de bolas rojas que bolas azules.
+#¿Cuántas bolas rojas tenía al principio?
+
+bolas_azules = 22
+bolas_rojas = 47
 
 print(f'Ariel tiene inicialmente {bolas_azules} bolas azules y {bolas_rojas} bolas rojas')
 
