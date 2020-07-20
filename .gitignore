@@ -2,10 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.png
+
+*.jpg
+drivers\
 
 # C extensions
 *.so
-
+chromedriver.exe
 # Distribution / packaging
 .Python
 build/
@@ -26,7 +30,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+.idea/
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
